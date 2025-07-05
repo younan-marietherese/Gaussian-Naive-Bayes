@@ -1,5 +1,7 @@
 # Iris Species Classification using Gaussian Naive Bayes
 
+This project is part of the ZAKA Machine Learning Specialization and earned **Top 2** placement on the leaderboard.
+
 ## Overview
 
 This repository contains a Google Colab notebook that walks through the **Data Science Lifecycle** using the classic **Iris flower dataset**. The objective is to build a **simple machine learning model from scratch** to predict the **species of an iris flower** based on its physical characteristics.
